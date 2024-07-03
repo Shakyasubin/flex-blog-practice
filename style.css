@@ -120,6 +120,10 @@ header ul li:hover {
   padding: 3rem 0;
 }
 
+.latest > .container > h2 {
+  color: white;
+}
+
 .main {
   display: flex;
   gap: 1rem;
