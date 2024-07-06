@@ -177,7 +177,7 @@ article .btn {
 }
 
 .card {
-  width: 350px;
+  max-width: 390px;
   box-shadow: var(--shadow);
   padding-bottom: 2rem;
   border-radius: 10px;
